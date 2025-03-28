@@ -29,7 +29,7 @@ Whole slide images (WSIs) contain rich information for cancer diagnosis, biomark
 {%
   include figure.html
   image="images/kd.PNG"
-  caption="Knowledge distillation example for molecular predictions"
+  caption="Knowledge distillation example for molecular biomarker predictions"
   width="600px"
 %}
 {% endcapture %}
