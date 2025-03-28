@@ -58,7 +58,7 @@ Multimodal learning, which integrates radiological images (e.g., CT, MRI), H&E-s
   flip=false
 %}
 
-In clinical applications, generating medical images such as IHC slides is costly and time-consuming. Additionally, acquiring multimodal medical images is challenging, as missing modalities frequently occur across different patients and clinical centers. To address these limitations, our lab focuses on developing novel generative AI models by leveraging GANs, diffusion models, and contrastive learning strategies for biomedical applications.
+In clinical applications, generating medical images such as IHC slides is costly and time-consuming. Additionally, acquiring multimodal medical images for analysis is challenging, as missing modalities frequently occur across different patients and clinical centers. To address these limitations, our lab focuses on developing novel generative AI models by leveraging GANs, diffusion models, and contrastive learning strategies for biomedical applications.
 {% include float.html clear=true %}
 
 {% capture content %}
